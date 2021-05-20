@@ -1,7 +1,4 @@
+![](HackerRank.PNG)
+[https://www.hackerrank.com/kuldeepbalaji_d](https://www.hackerrank.com/kuldeepbalaji_d)
 
 
-
-
-Programming
-
-DomainChallengeSolutionProgrammingAngry Professorsolution.cProgrammingCounting Valleyssolution.c
